@@ -1,6 +1,7 @@
 from collections import defaultdict, counter
 import regex as re
 
+
 class bpetokenizer:
     def __init__(self,vocab_size=1000):
         self.vocab_size
